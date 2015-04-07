@@ -1,0 +1,16 @@
+.bigbutton {
+	color: silver;
+	background-color: steelblue;
+	width: 40%;
+	height: 60px;
+	margin: 70px 0 100px 35%;
+	border-radius: 10px;
+}
+
+.coverbox{
+	background-color: steelblue;
+	width: 80%;
+	height: 850px;
+	margin-left: 10%;
+	position: fixed;
+}
